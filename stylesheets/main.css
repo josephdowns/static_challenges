@@ -1,0 +1,19 @@
+h1 {
+  color: white;
+  background-color: red;
+  font-size: 32px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+}
+
+h2 {
+  color: white;
+  background-color: black;
+  text-align: right;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 10px;
+  word-spacing: 10px;
+  text-decoration: underline;
+}
